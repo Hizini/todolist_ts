@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "todolist_ts",
+=======
+  "name": "todolist",
+>>>>>>> cdb5c7278c8e2dee8b912317aab9e2a8f2adf95a
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +17,11 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+<<<<<<< HEAD
     "typescript": "^4.9.5",
+=======
+    "sass": "^1.58.0",
+>>>>>>> cdb5c7278c8e2dee8b912317aab9e2a8f2adf95a
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -39,5 +47,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.51.0",
+    "@typescript-eslint/parser": "^5.51.0",
+    "eslint": "^8.33.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5"
+>>>>>>> cdb5c7278c8e2dee8b912317aab9e2a8f2adf95a
   }
 }
