@@ -1,20 +1,8 @@
 {
   "compilerOptions": {
     "target": "es5",
-<<<<<<< Updated upstream
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
-    ],
-<<<<<<< HEAD
-=======
-    "baseUrl": "./src",
->>>>>>> cdb5c7278c8e2dee8b912317aab9e2a8f2adf95a
-=======
     "lib": ["dom", "dom.iterable", "esnext"],
     "baseUrl": "./src",
->>>>>>> Stashed changes
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
