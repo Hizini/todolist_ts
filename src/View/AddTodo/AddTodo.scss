@@ -1,0 +1,38 @@
+.add {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 10px;
+
+    input {
+        width: calc(100% - 70px);
+        height: 8px;
+        border: 1px solid #a6c1ee;
+        padding: 10px;
+        font-size: 18px;
+
+        &::placeholder {
+            color: #a6c1ee;
+        }
+    }
+
+    button {
+        cursor: pointer;
+        width: 60px;
+        height: 30px;
+        font-size: 26px;
+        font-weight: bold;
+        color: white;
+        transition: 0.5s;
+        box-shadow: 0 0 20px #eee;
+        background-size: 200% auto;
+        border: none;
+        background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 51%, #fbc2eb 100%);
+
+        &:hover {
+            background-position: right center;
+            background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 51%, #fbc2eb 100%);
+        }
+    }
+}

@@ -1,0 +1,17 @@
+.item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    gap: 20px;
+    padding: 10px;
+
+    .text {
+        font-size: 18px;
+        width: calc(100% - 80px);
+
+        &.completed {
+            text-decoration: line-through;
+        }
+    }
+}

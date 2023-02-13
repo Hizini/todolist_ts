@@ -11,13 +11,14 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
-    "@types/node": "^16.18.12",
-    "@types/react": "^18.0.27",
-    "@types/react-dom": "^18.0.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+    "sass": "^1.58.0",
+>>>>>>> Stashed changes
     "typescript": "^4.9.5",
 =======
     "sass": "^1.58.0",
@@ -47,22 +48,38 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
   },
   "devDependencies": {
+=======
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0",
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+>>>>>>> Stashed changes
     "@typescript-eslint/eslint-plugin": "^5.51.0",
     "@typescript-eslint/parser": "^5.51.0",
     "eslint": "^8.33.0",
     "eslint-config-airbnb": "^19.0.4",
+<<<<<<< Updated upstream
+=======
+    "eslint-config-airbnb-base": "^15.0.0",
+>>>>>>> Stashed changes
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-jsx-a11y": "^6.7.1",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
+<<<<<<< Updated upstream
     "prettier": "^2.8.4",
     "typescript": "^4.9.5"
 >>>>>>> cdb5c7278c8e2dee8b912317aab9e2a8f2adf95a
+=======
+    "prettier": "^2.8.4"
+>>>>>>> Stashed changes
   }
 }
